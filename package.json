@@ -1,6 +1,9 @@
 {
   "name": "constitution-dao-front-end",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.18.0"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
