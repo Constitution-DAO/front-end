@@ -5,6 +5,7 @@
 This repo is for the ConstitutionDAO front-end.
 
 ## Learn more
+
 - [Website](https://constitutiondao.com/)
 - [Discord](https://discord.gg/XQcmCmWDn8)
 - [Twitter](https://twitter.com/constitutiondao)
@@ -23,6 +24,7 @@ This repo is for the ConstitutionDAO front-end.
 ## Structure of README
 
 **Please add ideas for how to structure the README:**
+
 - TL;DR
 - Learn more
 - How to contribute
